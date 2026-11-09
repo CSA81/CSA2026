@@ -1685,8 +1685,8 @@ a {
   }
 }
 .cid-vwnhzL8Kam {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
+  padding-top: 7rem;
+  padding-bottom: 10rem;
   background-image: url("../../../assets/images/christian-star-academy-mount-vernon-oh-schoolphoto-522x388.jpg");
 }
 .cid-vwnhzL8Kam .card-wrapper {
@@ -1726,10 +1726,52 @@ a {
 .cid-vwnhzL8Kam .mbr-section-title {
   color: #840000;
 }
-.cid-vwswQOWgFC {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
+.cid-vAecFDIixW {
+  padding-top: 4rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
+}
+.cid-vAecFDIixW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vAecFDIixW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vAecFDIixW .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-vAecFDIixW .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-vAecFDIixW .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #aa2222;
+}
+.cid-vAecFDIixW .panel-body,
+.cid-vAecFDIixW .card-header {
+  padding: 1rem 0;
+}
+.cid-vAecFDIixW .panel-title-edit {
+  color: #000000;
+}
+.cid-vAecFDIixW .mbr-section-title {
+  color: #560000;
+}
+.cid-vwswQOWgFC {
+  padding-top: 7rem;
+  padding-bottom: 6rem;
+  background-color: #430202;
 }
 .cid-vwswQOWgFC .mbr-fallback-image.disabled {
   display: none;
@@ -1755,8 +1797,8 @@ a {
   width: 100%;
 }
 .cid-vwnhSXkt4u {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
+  padding-top: 8rem;
+  padding-bottom: 10rem;
   background-color: #ffffff;
 }
 .cid-vwnhSXkt4u .mbr-fallback-image.disabled {
@@ -5945,21 +5987,6 @@ a {
 .cid-vxoN1LMwv8 .media-container-row .mbr-text {
   text-align: right;
 }
-.cid-vyOdvMqHwn {
-  background-image: url("../../../assets/images/background202201-1920x1080.png");
-}
-.cid-vyOdvMqHwn .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vyOdvMqHwn .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
 .cid-sFGzlAXw3z .navbar-dropdown {
   position: relative !important;
 }
@@ -6304,6 +6331,21 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-vyOdvMqHwn {
+  background-image: url("../../../assets/images/background202201-1920x1080.png");
+}
+.cid-vyOdvMqHwn .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vyOdvMqHwn .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-vyOdkCklDf {
   padding-top: 5rem;
